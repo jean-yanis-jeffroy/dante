@@ -43,6 +43,10 @@ Lancement du solveur
 ./solver/solver [maze]
 ```
 
+## Coverage
+
+[![codecov](https://codecov.io/gh/jean-yanis-jeffroy/dante/branch/main/graph/badge.svg?token=7RLP6BTPTS)](https://codecov.io/gh/jean-yanis-jeffroy/dante)
+
 ## Auteurs
 
 * **Jean-Yanis Jeffroy**
